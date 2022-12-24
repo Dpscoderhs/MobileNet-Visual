@@ -1,0 +1,63 @@
+#mobnt {
+    width: 100px;
+    height: auto;
+}
+
+#clr_bl {
+    background-color: skyblue;
+    width: 1450px;
+    margin-left: 25px;
+    border-radius: 40px;
+}
+
+#blr1 {
+    background-color: white;
+    border-radius: 25px;
+    height: 25px;
+}
+
+#blr2 {
+    background-color: white;
+    border-radius: 25px;
+    height: 25px;
+}
+
+#clr_bl2 {
+    background-color: skyblue;
+    width: 1450px;
+    margin-left: 25px;
+    margin-top: 15px;
+    border-radius: 40px;
+}
+
+#blr3 {
+    background-color: white;
+    border-radius: 25px;
+    height: 25px;
+}
+
+#blr4 {
+    background-color: white;
+    border-radius: 25px;
+    height: 25px;
+}
+
+#clr_bl3 {
+    background-color: skyblue;
+    width: 1450px;
+    margin-left: 25px;
+    margin-top: 15px;
+    border-radius: 40px;
+}
+
+#blr5 {
+    background-color: white;
+    border-radius: 25px;
+    height: 25px;
+}
+
+#blr6 {
+    background-color: white;
+    border-radius: 25px;
+    height: 25px;
+}
